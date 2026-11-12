@@ -9,3 +9,4 @@ Presentation materials shared by the speakers at DSATalks 2026, organized by the
 |---|---|---|---|
 | 1 | Prof. Dr. İlker ÜNAL | Sağlıkta Veri Bilimi (Data Science in Healthcare) | [PDF](1-%20Sa%C4%9Fl%C4%B1kta%20Veri%20Bilimi%20-%20Prof.%20Dr.%20%C4%B0lker%20%C3%9CNAL.pdf) |
 | 2 | Dr. Recep EROL | Data Science from Yesterday to Tomorrow | [PDF](2-%20Data_Science_from_Yesterday_to_Tomorrow%20-%20Dr.%20Recep%20EROL.pdf) · [Slides / Slaytlar](https://erolrecep.github.io/datascience_from_yesterday_to_tomorrow/) · [Repository](https://github.com/erolrecep/datascience_from_yesterday_to_tomorrow) |
+| 3 | Silvan SCHWALLER | Mastering the Matrix: MATLAB for Data Scientists | [PDF](https://github.com/confdsa/DSATalks-2026-Speaker-Presentations/blob/main/MATLAB%20for%20Data%20Scientists%20-%20Silvan%20Schwaller%20.pdf) |
